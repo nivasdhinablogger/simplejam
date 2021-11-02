@@ -1,31 +1,31 @@
-body{
+body {
     font-family: sans-serif;
     background: #fff3d0;
     text-align: center;
 }
 
 
-h1{
+h1 {
     padding-top: 5rem;
     font-size: 3rem;
 }
 
 
-img{
+img {
     vertical-align:middle;
     width: 65px;
 
 }
 
 
-p{
+p {
     color: #777;
 }
 
 
-#disqus_thread{
+#disqus_thread {
 
     margin: 2rem auto;
-    max-width: 600px;
+    max-width: 100px;
 
 }
